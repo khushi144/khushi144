@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khushi
-- 👀 I’m interested in exploring new things
+- 👀 I’m interested in exploring new technologies 
 - 🌱 I’m currently learning django framework
 - 💞️ I’m looking to collaborate on full time job 
 - 📫 How to reach me khushi.19b131200@abes.ac.in 
